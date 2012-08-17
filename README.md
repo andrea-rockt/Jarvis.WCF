@@ -1,0 +1,4 @@
+Jarvis.WCF
+==========
+
+Shared contracts 
