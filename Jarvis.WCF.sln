@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jarvis.WCF.Contracts", "Jarvis.WCF.Contracts\Jarvis.WCF.Contracts.csproj", "{5D71152D-968B-4F36-B22E-0A51CA6C4A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jarvis.WCF.Proxies", "Jarvis.WCF.Proxies\Jarvis.WCF.Proxies.csproj", "{0BE3C1DA-7769-4C66-A45B-76AE5C4FFE53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D71152D-968B-4F36-B22E-0A51CA6C4A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D71152D-968B-4F36-B22E-0A51CA6C4A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D71152D-968B-4F36-B22E-0A51CA6C4A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D71152D-968B-4F36-B22E-0A51CA6C4A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE3C1DA-7769-4C66-A45B-76AE5C4FFE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE3C1DA-7769-4C66-A45B-76AE5C4FFE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE3C1DA-7769-4C66-A45B-76AE5C4FFE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE3C1DA-7769-4C66-A45B-76AE5C4FFE53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
