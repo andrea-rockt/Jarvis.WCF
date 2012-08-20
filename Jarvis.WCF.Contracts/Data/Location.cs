@@ -12,7 +12,7 @@ namespace Jarvis.WCF.Contracts.Data
     public class Location : Entity<Guid>
     {
         [DataMember]
-        public string Score { get; set; }
+        public double? Score { get; set; }
         [DataMember]
         public string Name { get; set; }
         [DataMember]
