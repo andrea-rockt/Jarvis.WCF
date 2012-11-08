@@ -19,5 +19,14 @@ namespace Jarvis.WCF.Contracts.Service
 
         [OperationContract]
         void StoreCurrentLocation(Location location);
+
+
+
+        [OperationContract]
+        void RemoveLocation(Location location);
+
+        [OperationContract]
+        void UpdateLocation(Location location);
+
     }
 }
